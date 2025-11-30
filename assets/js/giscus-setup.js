@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "formoree/ZimengYuan",
+    "data-repo": "ZimengYuan/ZimengYuan",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
